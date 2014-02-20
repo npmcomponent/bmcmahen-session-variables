@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [bmcmahen/session-variables](http://github.com/bmcmahen/session-variables). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/bmcmahen-session-variables`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # session-variables
 
   Persistent session variables for maintaining an application state inbetween user sessions. I'm using this for a mobile app so that I can record a user's application state and restore it when the user reloads the page, closes the app, etc.

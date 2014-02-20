@@ -1,6 +1,6 @@
-var Emitter = require('emitter');
-var store = require('store');
-var each = require('each');
+var Emitter = require('component-emitter');
+var store = require('yields-store');
+var each = require('component-each');
 
 /**
  * Session Object. It's basically a simplified model
